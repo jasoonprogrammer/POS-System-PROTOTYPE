@@ -1,0 +1,19 @@
+                         CE Philippines                          
+           M.r. Lat St & President Jose P. Laurel Hwy            
+                   Batangas City, Philippines                    
+
+Transaction #: 0000000152                   Cashier: Jason Villa
+-----------------------------------------------------------------
+Qty Product Price Total
+  3 asdf                                      @ ₱1.00       ₱3.00
+  5 asdf                                      @ ₱1.00       ₱5.00
+  1 asdf                                      @ ₱1.00       ₱1.00
+-----------------------------------------------------------------
+    VATTABLE                                                ₱8.04
+    E-VAT (12%)                                             ₱0.96
+    TOTAL DISCOUNT                                          ₱0.00
+
+    TOTAL                                                   ₱9.00
+    PAYMENT                                                ₱10.00
+-----------------------------------------------------------------
+    CHANGE                                                  ₱1.00
